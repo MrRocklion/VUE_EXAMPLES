@@ -30,7 +30,7 @@
       <div class="col-lg-4" :class="{'text-right': isRTL}">
         <card type="chart">
           <template slot="header">
-            <h5 class="card-category">GRAFICA1</h5>
+            <h5 class="card-category">BUFFER 1</h5>
             <h3 class="card-title"><i class="tim-icons icon-bell-55 text-primary "></i> 763,215</h3>
           </template>
           <div class="chart-area">
