@@ -1,8 +1,7 @@
 <template>
   <v-app>
-    <v-toolbar dark sense src="./images/estrellas.jpg">
+     <v-toolbar dark sense src="./images/estrellas.jpg">
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
-
       <v-toolbar-title
         >APLICACION DE AUTENTICACION POR DAVID DIAZ</v-toolbar-title
       >
